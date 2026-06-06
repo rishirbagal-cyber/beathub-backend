@@ -1,0 +1,16 @@
+{
+  "name": "beathub-backend",
+  "version": "1.0.0",
+  "description": "Backend schema for BeatHub music app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^8.21.0"
+  }
+}
